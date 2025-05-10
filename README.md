@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="420" src="logo.png" />
+  <img align="center" width="400" src="logo.png" />
 </p>
 
 <p align="center">
@@ -18,8 +18,10 @@
 </p>
 
 
-### 🛠 Tool Description .
-- This script is a Telegram-based `spyware` tool that performs the following actions:
+> **Notice:** 🛠 Tool Description .
+
+> [!IMPORTANT]
+> This script is a Telegram-based `spyware` tool that performs the following actions:
 
 ### 📸 1. Webcam Access
 
