@@ -72,7 +72,7 @@
 - Clone The Project:
 ```shell
 # via Git
-git clone --branch v1.1.2 --depth 1 https://github.com/DevZ44d/EYE.git
+git clone https://github.com/DevZ44d/EYE.git
 ```
 
 ### Install the requirements .
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 - Open **`bot_config.py`**, then add `BOT_TOKEN` and `OWNER_ID` in line `6`, `7`, or run `src.py` and enter `BOT_TOKEN` and `OWNER_ID` .
 ```shell
 # 3. Run
-python missing_values.py
+python main.py
 ```
 
 ## 💬 Help & Support .
